@@ -73,5 +73,5 @@ sudo systemctl enable docker
 docker --version
 
 # Step 7: Run Hello World container
-sudo docker run hello-world
+sudo docker run hello-world 
 
