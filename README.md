@@ -19,17 +19,7 @@ Deploy a lightweight static web server using Docker and Nginx, expose it via por
 
 ---
 
-### 🐳 Project 3: Containerize a Python Flask App  
-Learn how to package a simple Python Flask app inside a Docker container, build your own Docker image, and run it on EC2.  
-[🔗 View Project 3](./03_flask_app/README.md)  
-
----
-
-### 🐳 Project 4: Multi-Container App with Docker Compose  
-Explore Docker Compose by setting up a multi-container app (e.g., Flask + MySQL) using a single configuration file.  
-[🔗 View Project 4](./04_docker_compose/README.md)  
-
----
+More projects coming soon !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 
 
