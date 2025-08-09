@@ -15,7 +15,7 @@ Learn how to install Docker on a cloud VM, pull your first image, and run your f
 
 ### 🐳 Project 2: Deploy Nginx Web Server Inside Docker  
 Deploy a lightweight static web server using Docker and Nginx, expose it via port mapping, and access it through your browser.  
-[🔗 View Project 2](./02_nginx_webserver/README.md)  
+[🔗 View Project 2](./02_nginx_static_site/README.md)  
 
 ---
 
