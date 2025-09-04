@@ -19,6 +19,13 @@ Deploy a lightweight static web server using Docker and Nginx, expose it via por
 
 ---
 
+### 🐳 Project 3: Deploy Flask + PostgreSQL + Nginx App on Docker (AWS EC2)
+
+Build and deploy a **production-ready Flask web app** connected to **PostgreSQL** and served through **Nginx**, all running in **Docker containers** on an AWS EC2 instance.  
+
+🔗 [View Project 3](./03_flask_postgres_app/README.md)
+
+
 More projects coming soon !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 
