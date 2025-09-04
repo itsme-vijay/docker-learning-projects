@@ -1,4 +1,4 @@
-# 🐳 Lab 3: Deploy Production-Ready Flask + PostgreSQL App with Nginx on Docker (AWS EC2)
+# 🐳 Project 3: Deploy Production-Ready Flask + PostgreSQL App with Nginx on Docker (AWS EC2)
 
 In this lab, you'll learn how to **build and deploy a production-ready Flask web application** connected to **PostgreSQL**, served through **Nginx**, all running inside **Docker containers** on an AWS EC2 instance.  
 We’ll go step by step — from writing Flask code, setting up the database, to configuring Docker and Nginx for live deployment.
@@ -24,7 +24,6 @@ We’ll go step by step — from writing Flask code, setting up the database, to
 
 ## 📖 Full Guide Here:
 📚 **[Deploy Flask + PostgreSQL + Nginx App on Docker (Medium Article)](https://medium.com/@sirohi-v/project-3-how-i-built-and-deployed-a-production-ready-flask-app-with-postgresql-using-docker-ee76dc6f76db)**  
-*(Replace with your article link once published)*
 
 ---
 
